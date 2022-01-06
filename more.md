@@ -1,10 +1,10 @@
 ### Android
 
-<img src="/Users/mac/github_dev/android-study-video/images/1641483340150.jpg" width="40%"/>
+<img src="images/android_00.jpg" width="40%"/>
 
-<img src="/Users/mac/github_dev/android-study-video/images/image-20220106235128990.png" width="40%"/>
+<img src="images/android_02.png" width="40%"/>
 
-<img src="/Users/mac/github_dev/android-study-video/images/image-20220106235800598.png" width="30%"/>
+<img src="images/android_03.png" width="30%"/>
 
 
 
@@ -218,7 +218,7 @@
 
 ### 视频剪辑
 
-<img src="images/视频剪辑01.png" width="50%"/>
+<img src="images/video_cut_01.png" width="50%"/>
 
 
 
