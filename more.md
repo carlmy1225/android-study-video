@@ -224,4 +224,4 @@
 
 需要请添加qq: 1442949811，请填写需要的资料名称，内容自己都看了一遍
 
-<img src="/Users/mac/github_dev/android-study-video/images/qq_code.png" width="30%"/>
+<img src="images/qq_code.png" width="30%"/>
